@@ -1,0 +1,23 @@
+# Keil MDK build outputs
+Objects/
+Listings/
+DebugConfig/
+*.uvguix.*
+*.uvoptx
+*.axf
+*.o
+*.crf
+*.d
+*.dep
+*.lnp
+*.lst
+*.map
+*.htm
+*.sct
+*.build_log.htm
+
+# OS / editor
+Thumbs.db
+.DS_Store
+.idea/
+.vscode/
