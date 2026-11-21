@@ -691,26 +691,6 @@
           <GroupName>hardware</GroupName>
           <Files>
             <File>
-              <FileName>led.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\hardware\led.c</FilePath>
-            </File>
-            <File>
-              <FileName>led.h</FileName>
-              <FileType>5</FileType>
-              <FilePath>.\hardware\led.h</FilePath>
-            </File>
-            <File>
-              <FileName>lightiuput.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\hardware\lightiuput.c</FilePath>
-            </File>
-            <File>
-              <FileName>lightinput.h</FileName>
-              <FileType>5</FileType>
-              <FilePath>.\hardware\lightinput.h</FilePath>
-            </File>
-            <File>
               <FileName>OLED.c</FileName>
               <FileType>1</FileType>
               <FilePath>.\hardware\OLED.c</FilePath>

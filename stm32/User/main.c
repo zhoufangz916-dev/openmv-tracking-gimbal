@@ -58,7 +58,7 @@ int main(void)
 			Servo2_SetAngle(Angle2);
 
 			/* 每 2 帧往电脑发一次角度，供 Qserial 波形窗口画曲线 */
-			if(++TelemCnt >= 2)
+			if(++TelemCnt >= 1)
 			{
 				TelemCnt = 0;
 				Serial2_Printf("A1=%d.%d A2=%d.%d\n",
