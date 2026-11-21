@@ -232,7 +232,8 @@ A1=(?<pan>[0-9.-]+) A2=(?<tilt>[0-9.-]+)
 │   ├── User/main.c                 # 帧解析、角度累加、PWM、遥测
 │   ├── hardware/                   # Serial / Servo / PWM / OLED
 │   ├── library/                    # STM32 标准外设库
-│   └── start/                      # 启动文件与系统文件
+│   ├── start/                      # 启动文件、系统文件
+│   └── system/                     # Delay 延时等
 ├── media/                          # 演示图片、GIF、视频
 ├── docs/
 │   └── project-report.pdf          # 完整项目报告（12 页）
